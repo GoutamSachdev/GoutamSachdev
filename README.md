@@ -6,7 +6,7 @@ Welcome to my GitHub repository! As a computer science student and AI enthusiast
 
 ## Table of Contents
 
-
+  Goutam Sachedv
 - [gksachdev46@Gmail.com]
 
 ## About Me
@@ -51,6 +51,6 @@ Contributions are welcome! If you'd like to contribute to any of the projects, p
 Feel free to reach out to me if you have any questions or suggestions:
 
 - Email: [gksachdev46@Gmail.com]
-- LinkedIn: [)
+- LinkedIn: [https://www.linkedin.com/in/goutam-sachdev-978435190/]
 
 Happy coding!
