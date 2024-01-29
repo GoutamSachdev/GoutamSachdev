@@ -1,17 +1,17 @@
 # READ ME
 
 
-
-Welcome to my GitHub repository! As a computer science student and AI enthusiast, I'm excited to share my projects related to data structures, algorithms, and web development.
+Welcome to my GitHub! I'm a final year computer science student with a passion for Python, machine learning, and deep learning. Explore my projects showcasing academic prowess in data structures, algorithms, and cutting-edge AI development!
 
 ## Table of Contents
 
   Goutam Sachedv
-- [gksachdev46@Gmail.com]
+- [gksachdev46@gmail.com]
+- https://www.linkedin.com/in/goutam-sachdev-978435190/
 
 ## About Me
 
-I'm a dedicated computer science student passionate about artificial intelligence and its practical applications. I love exploring complex algorithms, crafting efficient data structures, and building interactive web applications.
+I'm a dedicated computer science student passionate about artificial intelligence and its practical applications. I love exploring complex algorithms, crafting efficient data structures, and building interactive AI applications.
 
 ## Projects
 
