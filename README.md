@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a final year computer science student with a passion f
 
 ## Table of Contents
 
-  Goutam Sachedv
+  Goutam Sachdev
 - [gksachdev46@gmail.com]
 - https://www.linkedin.com/in/goutam-sachdev-978435190/
 
@@ -45,25 +45,6 @@ I'm a dedicated computer science student passionate about artificial intelligenc
 ![Goutam Sachdev's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoutamSachdev&custom_title=Goutam%20Sachdev's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br />
-
-## Projects
-
-### Project 1: AI-Powered Chatbot
-
-- **Description:** An intelligent chatbot that utilizes natural language processing (NLP) to interact with users and provide helpful responses.
-- **Tech Stack:** Python, TensorFlow, NLP
-
-
-### Project 2: Web-Based Task Manager
-
-- **Description:** A web application for managing tasks and to-do lists, built using modern web development technologies.
-- **Tech Stack:** HTML, CSS, JavaScript, React
-
-
-### Project 3: Sorting Algorithm Visualizer
-
-- **Description:** A visualization tool that demonstrates how various sorting algorithms work, helping users understand their efficiency.
-- **Tech Stack:** HTML, CSS, JavaScript,
 
 
 ## Getting Started
