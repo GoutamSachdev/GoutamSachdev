@@ -1,4 +1,7 @@
-# READ ME
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
+
 
 
 Welcome to my GitHub! I'm a final year computer science student with a passion for Python, machine learning, and deep learning. Explore my projects showcasing academic prowess in data structures, algorithms, and cutting-edge AI development!
@@ -7,7 +10,8 @@ Welcome to my GitHub! I'm a final year computer science student with a passion f
 
   Goutam Sachdev
 - [gksachdev46@gmail.com]
-- https://www.linkedin.com/in/goutam-sachdev-978435190/
+- <br>
+<a href="https://www.linkedin.com/in/goutam-sachdev-978435190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## About Me
 
@@ -65,6 +69,11 @@ Contributions are welcome! If you'd like to contribute to any of the projects, p
 Feel free to reach out to me if you have any questions or suggestions:
 
 - Email: [gksachdev46@Gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/goutam-sachdev-978435190/]
+<br>
+<a href="https://www.linkedin.com/in/goutam-sachdev-978435190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Happy coding!
+<i>Happy Coding!</i> 😊
+
+---
+
+
