@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a final year computer science student with a passion f
 
   Goutam Sachdev
 - [gksachdev46@gmail.com]
-- <br>
+
 <a href="https://www.linkedin.com/in/goutam-sachdev-978435190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## About Me
